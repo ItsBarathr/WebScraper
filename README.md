@@ -8,8 +8,8 @@ Requirement:
 
 Before using Webscraper file we need to install packages using this commands
 
-pip install requests
-pip install bs4
-pip install regex
+Main commands:
+  1. pip install -r requirement.txt
+  2. python3 WebScraper.py
 
 usage : python3 WebScraper.py
