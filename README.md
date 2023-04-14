@@ -45,9 +45,7 @@ Requirement:
 Before using Webscraper file we need to install packages using this commands
 
 Main commands:
-  1. 
-  pip install -r requirement.txt
-  2. 
-  python3 WebScraper.py -u http://example.com
+  1. pip install -r requirement.txt
+  2. python3 WebScraper.py -u http://example.com
 
 usage : python3 WebScraper.py -u http://example.com
