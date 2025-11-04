@@ -1,4 +1,4 @@
-# WebScraper 2.0
+# WebScraper 2.2
                      #   ,                        %                    
                         ,                          @    (              
                   (.   .(                           @    @             
